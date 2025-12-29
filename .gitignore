@@ -1,50 +1,50 @@
 # compiled output
-*/dist
-*/node_modules
-*/build
+nust_app/dist
+nust_app/node_modules
+nust_app/build
 
 # Logs
-*/logs
-*/*.log
-*/npm-debug.log*
-*/pnpm-debug.log*
-*/yarn-debug.log*
-*/yarn-error.log*
-*/lerna-debug.log*
+nust_app/logs
+nust_app/*.log
+nust_app/npm-debug.log*
+nust_app/pnpm-debug.log*
+nust_app/yarn-debug.log*
+nust_app/yarn-error.log*
+nust_app/lerna-debug.log*
 
 # OS
-*/.DS_Store
+nust_app/.DS_Store
 
 # Tests
-*/coverage
-*/.nyc_output
+nust_app/coverage
+nust_app/.nyc_output
 
 # IDEs and editors
-*/.idea
-*/.project
-*/.classpath
-*/.c9/
-*/*.launch
-*/.settings/
-*/*.sublime-workspace
+nust_app/.idea
+nust_app/.project
+nust_app/.classpath
+nust_app/.c9/
+nust_app/*.launch
+nust_app/.settings/
+nust_app/*.sublime-workspace
 
 
 # dotenv environment variable files
-*/.env
-*/.env.development.local
-*/.env.test.local
-*/.env.production.local
-*/.env.local
+nust_app/.env
+nust_app/.env.development.local
+nust_app/.env.test.local
+nust_app/.env.production.local
+nust_app/.env.local
 
 # temp directory
-*/.temp
-*/.tmp
+nust_app/.temp
+nust_app/.tmp
 
 # Runtime data
-*/pids
-*/*.pid
-*/*.seed
-*/*.pid.lock
+nust_app/pids
+nust_app/*.pid
+nust_app/*.seed
+nust_app/*.pid.lock
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
-*/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+nust_app/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
